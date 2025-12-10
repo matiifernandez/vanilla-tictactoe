@@ -40,7 +40,7 @@ npx serve .
 
 ## Demo
 
-[Live demo](https://tu-url-de-netlify.netlify.app)
+[Live demo](https://vanillajs-tic-tac-toe.netlify.app/)
 
 ---
 
